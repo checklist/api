@@ -10,7 +10,8 @@ Please feel free to:
 - suggest improvements
 - provide us with any feedback
 
-To register for a Sandbox API key please visit: https://docs.google.com/a/oneentry.com/spreadsheet/viewform?formkey=dEp2TlZ3N0RFSWVOZl8yZzdUbi1JbWc6MQ
+To register for a Sandbox API key please visit:
+https://docs.google.com/a/oneentry.com/spreadsheet/viewform?formkey=dEp2TlZ3N0RFSWVOZl8yZzdUbi1JbWc6MQ
 
 After you have had a chance to test your application using our sandbox, you can request a production key here:
 https://docs.google.com/a/oneentry.com/spreadsheet/viewform?formkey=dHl2alZqQnBjUXJnM05EbWVENWd3X2c6MA
